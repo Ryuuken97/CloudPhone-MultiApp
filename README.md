@@ -22,6 +22,6 @@ updated on sep 23
 - [Mt Manager](https://d.apkpure.com/b/APK/bin.mt.plus?version=latest) (recommended for file manager, good for cloning roblox on Android 12+)
 - [Smart Launcher](https://d.apkpure.com/b/APK/ginlemon.flowerfree?version=latest) (Must Download if you use android 10 and using cloned Executors above)
 - [Control Screen Orientation](https://d.apkpure.com/b/APK/ahapps.controlthescreenorientation?version=latest)
-- [1.1.1.1] (https://d.apkpure.com/b/APK/o.o.o.o?version=latest) (download if u always failed to login)
+- [1.1.1.1](https://d.apkpure.com/b/APK/o.o.o.o?version=latest) (download if u always failed to login)
 - [Firefox](https://d.apkpure.com/b/APK/org.mozilla.firefox?version=latest)
 - [1DM+](https://s1.spiderdown.com/1DM/1DM%2B%20v18.2%20%28Patched%29.apk)
