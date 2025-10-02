@@ -9,7 +9,7 @@
 updated on sep 23
 
 - [Ronix](https://wearedevs.net/d/ronix) Status : 🟢
-- [Delta](https://deltaexploits.gg/delta-executor-android) Status : 🟢
+- [Delta](https://cdn.gloopup.net/file/Delta-2.692.843.apk) Status : 🟢
 - [Codex](https://codex.lol/android) Status : 🟢
 - [Krnl](https://krnl.cat) Status : 🟢
 
