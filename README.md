@@ -25,3 +25,7 @@ updated on sep 23
 - [1.1.1.1](https://en.softonic.com/download/1111-w-warp/android/post-download/v/6.32?dt=internalDownload) (download if u always failed to login)
 - [Firefox](https://d.apkpure.com/b/APK/org.mozilla.firefox?version=latest)
 - [1DM+](https://s1.spiderdown.com/1DM/1DM%2B%20v18.2%20%28Patched%29.apk)
+
+### Dual Space :
+- [Dual Space: Multi App](https://d.apkpure.net/b/XAPK/com.xunijun.app.gp?version=latest)
+- [XAPK Installer](https://f-droid.org/repo/com.aefyr.sai.fdroid_60.apk)
