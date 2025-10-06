@@ -11,7 +11,7 @@ updated on sep 23
 - [Ronix](https://wearedevs.net/d/ronix) Status : 🟢
 - [Delta](https://cdn.gloopup.net/file/Delta-2.692.843.apk) Status : 🟢
 - [Codex](https://codex.lol/android) Status : 🟢
-- [Krnl](https://filenetwork.vip/file/krnl_release_2.691.868_2025.9.21_50.apk) Status : 🟢
+- [Krnl](https://filenetwork.vip/file/krnl_release_2.693.960_2025.10.6_51.apk) Status : 🟢
 
 ### Cloned Executors (Android 10 exclusive)
 
