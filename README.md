@@ -25,7 +25,7 @@ updated on sep 23
 - [1.1.1.1](https://en.softonic.com/download/1111-w-warp/android/post-download/v/6.32?dt=internalDownload) (download if u always failed to login)
 - [Firefox](https://d.apkpure.com/b/APK/org.mozilla.firefox?version=latest)
 - [1DM+](https://s1.spiderdown.com/1DM/1DM%2B%20v18.2%20%28Patched%29.apk)
-- [Resource Monitor Mini](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=3954688&key=f3ce066a3bc54b449f269c889e421a76979fee8c)
+- [CPU Stats](https://f-droid.org/repo/jp.takke.cpustats_26.apk)
 
 ### Dual Space :
 - [Dual Space: Multi App](https://d.apkpure.net/b/XAPK/com.xunijun.app.gp?version=latest)
