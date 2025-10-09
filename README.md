@@ -22,7 +22,7 @@ updated on sep 23
 - [Mt Manager](https://d.apkpure.com/b/APK/bin.mt.plus?version=latest) (recommended for file manager, good for cloning roblox on Android 12+)
 - [Smart Launcher](https://d.apkpure.com/b/APK/ginlemon.flowerfree?version=latest) (Must Download if you use android 10 and using cloned Executors above)
 - [Control Screen Orientation](https://d.apkpure.com/b/APK/ahapps.controlthescreenorientation?version=latest)
-- [1.1.1.1](https://s2.spiderdown.com/1.1.1.1/1.1.1.1%20v6.38.5%20%28Premium%29.apk) (download if u always failed to login)
+- [1.1.1.1](https://www.softonic-id.com/download/1111-w-warp/android/post-download/v/6.32?dt=internalDownload&_gl=1*xr04kp*_gcl_au*MTQzMTY3NDcyNy4xNzU5NDIzMjY2) (download if u always failed to login)
 - [Monitoring](https://en.softonic.com/download/cpu-gpu-meter-notification-monitor-stats/android/post-download/v/4.6.3?dt=internalDownload&_gl=1*arfahc*_gcl_au*ODgwNjA4MjMxLjE3NTk0NjkwMTM.)
 
 ### Dual Space :
