@@ -26,4 +26,5 @@ updated on sep 23
 - [Monitoring](https://en.softonic.com/download/cpu-gpu-meter-notification-monitor-stats/android/post-download/v/4.6.3?dt=internalDownload&_gl=1*arfahc*_gcl_au*ODgwNjA4MjMxLjE3NTk0NjkwMTM.)
 
 ### Dual Space :
-- [Dual Space: Multi App](https://s2.spiderdown.com/Dual%20Space%20Multi/Dual%20Space%20v1.71.0.20%20%28ViP%29.apk)
+- [Dual Space: Multi App](https://d-13.winudf.com/b/XAPK/Y29tLnh1bmlqdW4uYXBwLmdwXzExNzFfODhhNGRiNDA?_fn=RHVhbCBTcGFjZTogTXVsdGkgQXBwIENsb25lXzEuNzEuMC4yMF9BUEtQdXJlLnhhcGs&_p=Y29tLnh1bmlqdW4uYXBwLmdw&download_id=otr_1620802823546669&is_hot=false&k=a802ffaca555685d69177e607363a2e268e94be4)
+- [SAI](https://f-droid.org/repo/com.aefyr.sai.fdroid_60.apk)
